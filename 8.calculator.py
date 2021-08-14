@@ -42,5 +42,3 @@ while True:
 
     #  вывод данных
     print(f"результат: {result}")
-
-
